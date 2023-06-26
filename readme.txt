@@ -1,5 +1,3 @@
-Free Download Source Code "Online Food Ordering System"
-
 FIRST Download
 
 1.XAMPP
@@ -22,7 +20,3 @@ FIRST Download
 
 7.Run the script http://localhost/Online-Food-Order
 
-admin: Aditi Naik/ aditi   
-user: birju/ Birju123@
-
-Subcribe my channel thank You,,,,
